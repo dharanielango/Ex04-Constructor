@@ -78,4 +78,4 @@ class TestEmployee
  ![o](1.png)
  
  ## Result:
-Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
+Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully
